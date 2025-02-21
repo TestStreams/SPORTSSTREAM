@@ -26,3 +26,27 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 https://tvpass.org/live/msg-madison-square-gardens/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
 #EXTINF:-1 tvg-id="MSG PLUS" tvg-name="MSG Plus" tvg-logo="https://www.tvguide.com/a/img/resize/85ca5dd1f043693fce1aebaa8514d4eddd9efd81/hub/2023/03/28/d9eb9621-3fbf-490e-8382-c682223fe857/msglogo.png?auto=webp&format=pjpg",MSG
 https://tvpass.org/live/msg-plus/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Live Channels",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2017/03/nbc-sports-bay-area.png" group-title="Live Channels",NBC Sports Bay Area
+https://tvpass.org/live/nbc-sports-bay-area/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="Live Channels",NBC Sports Boston
+https://tvpass.org/live/nbc-sports-boston/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2017/03/nbc-sports-california.png" group-title="Live Channels",NBC Sports California
+https://tvpass.org/live/nbc-sports-california/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="NBC Sports Philadelphia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/640px-NBC_Sports_Philadelphia.png" group-title="Live Channels",NBC Sports Philadelphia
+https://tvpass.org/live/nbc-sports-philadelphia/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Live Channels",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone" tvg-logo="https://library.sportingnews.com/styles/twitter_card_120x120/s3/2021-08/nfl-redzone-ftr_iyp9z7817iog1w3foi4tcg2s8.png?itok=LjMlW5d1" group-title="Live Channels",NFL RedZone
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/NHL_Network_2012.svg" group-title="Live Channels",NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Live Channels",SEC Network
+http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="Live Channels",Stadium
+http://cdn1host.online:2999/venomj/EmoOmOskzq/1466
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Live Channels",Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Live Channels",YES Network
+https://tvpass.org/live/yes-network/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
