@@ -45,7 +45,7 @@ http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Live Channels",SEC Network
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-logo="https://miro.medium.com/v2/resize:fit:1400/1*_rYM5EVRihYBCAayb-RTKw.png" group-title="Live Channels",Stadium
-http://cdn1host.online:2999/venomj/EmoOmOskzq/1466
+https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Live Channels",Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Live Channels",YES Network
