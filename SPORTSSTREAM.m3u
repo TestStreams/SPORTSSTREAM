@@ -12,7 +12,7 @@ http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="Live Channels",ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-id="Fox_Sports" tvg-name="Fox Sports" tvg-logo="https://i.imgur.com/xA0l7DP.png",Fox Sports
+#EXTINF:-1 tvg-id="Fox_Sports" tvg-name="Fox Sports" tvg-logo="https://i.imgur.com/xA0l7DP.png",Fox Sports group-title="Live Channels",FOX Sports
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Live Channels",FS1
 https://tvpass.org/live/FoxSports1/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
@@ -22,9 +22,9 @@ https://tvpass.org/live/FoxSports2/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdT
 https://tvpass.org/live/GolfChannel/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Live Channels",MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="MSG" tvg-name="MSG" tvg-logo="https://www.tvguide.com/a/img/resize/85ca5dd1f043693fce1aebaa8514d4eddd9efd81/hub/2023/03/28/d9eb9621-3fbf-490e-8382-c682223fe857/msglogo.png?auto=webp&format=pjpg",MSG
+#EXTINF:-1 tvg-id="MSG" tvg-name="MSG" tvg-logo="https://www.tvguide.com/a/img/resize/85ca5dd1f043693fce1aebaa8514d4eddd9efd81/hub/2023/03/28/d9eb9621-3fbf-490e-8382-c682223fe857/msglogo.png?auto=webp&format=pjpg",MSG group-title="Live Channels",MSG
 https://tvpass.org/live/msg-madison-square-gardens/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
-#EXTINF:-1 tvg-id="MSG PLUS" tvg-name="MSG Plus" tvg-logo="https://www.tvguide.com/a/img/resize/85ca5dd1f043693fce1aebaa8514d4eddd9efd81/hub/2023/03/28/d9eb9621-3fbf-490e-8382-c682223fe857/msglogo.png?auto=webp&format=pjpg",MSG
+#EXTINF:-1 tvg-id="MSG PLUS" tvg-name="MSG Plus" tvg-logo="https://www.tvguide.com/a/img/resize/85ca5dd1f043693fce1aebaa8514d4eddd9efd81/hub/2023/03/28/d9eb9621-3fbf-490e-8382-c682223fe857/msglogo.png?auto=webp&format=pjpg",MSG group-title="Live Channels",MSG Plus
 https://tvpass.org/live/msg-plus/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
 #EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Live Channels",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
